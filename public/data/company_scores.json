@@ -1,0 +1,2162 @@
+[
+  {
+    "company": "Adidas",
+    "year": 2022,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 21,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1131,
+      "totalExecutivePay": 6783,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Allianz",
+    "year": 2022,
+    "executiveRewardScore": 37,
+    "executiveTotalCompensationScore": 37,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 64,
+    "leadershipDevelopmentScore": 33,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1078,
+      "totalExecutivePay": 11861,
+      "executiveCount": 11,
+      "internalCount": 1,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "BASF",
+    "year": 2022,
+    "executiveRewardScore": 42,
+    "executiveTotalCompensationScore": 23,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 57,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1229,
+      "totalExecutivePay": 7374,
+      "executiveCount": 6,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Bayer",
+    "year": 2022,
+    "executiveRewardScore": 42,
+    "executiveTotalCompensationScore": 23,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 58,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1226,
+      "totalExecutivePay": 7357,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Beiersdorf",
+    "year": 2022,
+    "executiveRewardScore": 25,
+    "executiveTotalCompensationScore": 21,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 738,
+      "totalExecutivePay": 6642,
+      "executiveCount": 9,
+      "internalCount": 0,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "BMW",
+    "year": 2022,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 25,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 51,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1139,
+      "totalExecutivePay": 7976,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Brenntag",
+    "year": 2022,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 16,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 39,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 840,
+      "totalExecutivePay": 5037,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Commerzbank",
+    "year": 2022,
+    "executiveRewardScore": 43,
+    "executiveTotalCompensationScore": 28,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 43,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1262,
+      "totalExecutivePay": 8835,
+      "executiveCount": 7,
+      "internalCount": 0,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Continental",
+    "year": 2022,
+    "executiveRewardScore": 33,
+    "executiveTotalCompensationScore": 15,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 89,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 950,
+      "totalExecutivePay": 4749,
+      "executiveCount": 5,
+      "internalCount": 1,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Covestro",
+    "year": 2022,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 843,
+      "totalExecutivePay": 3372,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Daimler Truck",
+    "year": 2022,
+    "executiveRewardScore": 32,
+    "executiveTotalCompensationScore": 23,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 934,
+      "totalExecutivePay": 7475,
+      "executiveCount": 8,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Bank",
+    "year": 2022,
+    "executiveRewardScore": 100,
+    "executiveTotalCompensationScore": 100,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 2913,
+      "totalExecutivePay": 32041,
+      "executiveCount": 11,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Deutsche Börse",
+    "year": 2022,
+    "executiveRewardScore": 30,
+    "executiveTotalCompensationScore": 16,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 860,
+      "totalExecutivePay": 5159,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Deutsche Post",
+    "year": 2022,
+    "executiveRewardScore": 37,
+    "executiveTotalCompensationScore": 33,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 68,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1071,
+      "totalExecutivePay": 10713,
+      "executiveCount": 10,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Deutsche Telekom",
+    "year": 2022,
+    "executiveRewardScore": 42,
+    "executiveTotalCompensationScore": 30,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 53,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1211,
+      "totalExecutivePay": 9688,
+      "executiveCount": 8,
+      "internalCount": 0,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "E.ON",
+    "year": 2022,
+    "executiveRewardScore": 49,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1413,
+      "totalExecutivePay": 7066,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Airbus",
+    "year": 2022,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 42,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1518,
+      "totalExecutivePay": 1518,
+      "executiveCount": 1,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Fresenius",
+    "year": 2022,
+    "executiveRewardScore": 46,
+    "executiveTotalCompensationScore": 41,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 63,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1326,
+      "totalExecutivePay": 13263,
+      "executiveCount": 10,
+      "internalCount": 0,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Hannover Rück",
+    "year": 2022,
+    "executiveRewardScore": 19,
+    "executiveTotalCompensationScore": 12,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 60,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 552,
+      "totalExecutivePay": 3863,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Heidelberg Cement",
+    "year": 2022,
+    "executiveRewardScore": 35,
+    "executiveTotalCompensationScore": 28,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 33,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1010,
+      "totalExecutivePay": 9092,
+      "executiveCount": 9,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Henkel",
+    "year": 2022,
+    "executiveRewardScore": 36,
+    "executiveTotalCompensationScore": 20,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 31,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1056,
+      "totalExecutivePay": 6338,
+      "executiveCount": 6,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Infineon",
+    "year": 2022,
+    "executiveRewardScore": 35,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 42,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1007,
+      "totalExecutivePay": 7051,
+      "executiveCount": 7,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Mercedes-Benz",
+    "year": 2022,
+    "executiveRewardScore": 38,
+    "executiveTotalCompensationScore": 28,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 47,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1115,
+      "totalExecutivePay": 8917,
+      "executiveCount": 8,
+      "internalCount": 2,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Merck",
+    "year": 2022,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 20,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1293,
+      "totalExecutivePay": 6466,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "MTU",
+    "year": 2022,
+    "executiveRewardScore": 25,
+    "executiveTotalCompensationScore": 9,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 42,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 718,
+      "totalExecutivePay": 2873,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Munich RE",
+    "year": 2022,
+    "executiveRewardScore": 55,
+    "executiveTotalCompensationScore": 50,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1596,
+      "totalExecutivePay": 15964,
+      "executiveCount": 10,
+      "internalCount": 1,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Porsche",
+    "year": 2022,
+    "executiveRewardScore": 24,
+    "executiveTotalCompensationScore": 15,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 28,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 709,
+      "totalExecutivePay": 4962,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Porsche Automobil Holding",
+    "year": 2022,
+    "executiveRewardScore": 25,
+    "executiveTotalCompensationScore": 9,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 742,
+      "totalExecutivePay": 2968,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Qiagen",
+    "year": 2022,
+    "executiveRewardScore": 26,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 84,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 751,
+      "totalExecutivePay": 1502,
+      "executiveCount": 2,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Rheinmetall",
+    "year": 2022,
+    "executiveRewardScore": 28,
+    "executiveTotalCompensationScore": 10,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 827,
+      "totalExecutivePay": 3309,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "RWE",
+    "year": 2022,
+    "executiveRewardScore": 30,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 882,
+      "totalExecutivePay": 2647,
+      "executiveCount": 3,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "SAP",
+    "year": 2022,
+    "executiveRewardScore": 31,
+    "executiveTotalCompensationScore": 20,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 78,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 905,
+      "totalExecutivePay": 6332,
+      "executiveCount": 7,
+      "internalCount": 0,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Sartorius",
+    "year": 2022,
+    "executiveRewardScore": 23,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 656,
+      "totalExecutivePay": 2622,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Siemens",
+    "year": 2022,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 24,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 51,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1529,
+      "totalExecutivePay": 7643,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Siemens Energy",
+    "year": 2022,
+    "executiveRewardScore": 32,
+    "executiveTotalCompensationScore": 15,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 57,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 929,
+      "totalExecutivePay": 4647,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Siemens Healthineers",
+    "year": 2022,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 15,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 67,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 977,
+      "totalExecutivePay": 4886,
+      "executiveCount": 5,
+      "internalCount": 1,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Symrise",
+    "year": 2022,
+    "executiveRewardScore": 27,
+    "executiveTotalCompensationScore": 7,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 792,
+      "totalExecutivePay": 2376,
+      "executiveCount": 3,
+      "internalCount": 0,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Volkswagen",
+    "year": 2022,
+    "executiveRewardScore": 59,
+    "executiveTotalCompensationScore": 69,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1708,
+      "totalExecutivePay": 22198,
+      "executiveCount": 13,
+      "internalCount": 0,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Vonovia",
+    "year": 2022,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 18,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 74,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1155,
+      "totalExecutivePay": 5773,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Zalando",
+    "year": 2022,
+    "executiveRewardScore": 15,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 432,
+      "totalExecutivePay": 2594,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Adidas",
+    "year": 2023,
+    "executiveRewardScore": 50,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 63,
+    "leadershipDevelopmentScore": 57,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1470,
+      "totalExecutivePay": 10292,
+      "executiveCount": 7,
+      "internalCount": 4,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Airbus",
+    "year": 2023,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 43,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 44,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1520,
+      "totalExecutivePay": 1520,
+      "executiveCount": 1,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Allianz",
+    "year": 2023,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 33,
+    "esgCommitmentScore": 73,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 64,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1165,
+      "totalExecutivePay": 10487,
+      "executiveCount": 9,
+      "internalCount": 6,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "BASF",
+    "year": 2023,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 29,
+    "esgCommitmentScore": 52,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 79,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1166,
+      "totalExecutivePay": 9331,
+      "executiveCount": 8,
+      "internalCount": 8,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Bayer",
+    "year": 2023,
+    "executiveRewardScore": 59,
+    "executiveTotalCompensationScore": 43,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 94,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1714,
+      "totalExecutivePay": 13711,
+      "executiveCount": 8,
+      "internalCount": 4,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Beiersdorf",
+    "year": 2023,
+    "executiveRewardScore": 27,
+    "executiveTotalCompensationScore": 17,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 14,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 789,
+      "totalExecutivePay": 5524,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "BMW",
+    "year": 2023,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 75,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 53,
+    "leadershipDevelopmentScore": 89,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1144,
+      "totalExecutivePay": 10295,
+      "executiveCount": 9,
+      "internalCount": 8,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Brenntag",
+    "year": 2023,
+    "executiveRewardScore": 30,
+    "executiveTotalCompensationScore": 16,
+    "esgCommitmentScore": 73,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 89,
+    "leadershipDevelopmentScore": 33,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 868,
+      "totalExecutivePay": 5206,
+      "executiveCount": 6,
+      "internalCount": 2,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Commerzbank",
+    "year": 2023,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 28,
+    "esgCommitmentScore": 46,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 29,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1283,
+      "totalExecutivePay": 8983,
+      "executiveCount": 7,
+      "internalCount": 2,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Continental",
+    "year": 2023,
+    "executiveRewardScore": 31,
+    "executiveTotalCompensationScore": 20,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 68,
+    "leadershipDevelopmentScore": 71,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 916,
+      "totalExecutivePay": 6411,
+      "executiveCount": 7,
+      "internalCount": 5,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Covestro",
+    "year": 2023,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 16,
+    "esgCommitmentScore": 30,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 72,
+    "leadershipDevelopmentScore": 17,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 836,
+      "totalExecutivePay": 5014,
+      "executiveCount": 6,
+      "internalCount": 1,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Daimler Truck",
+    "year": 2023,
+    "executiveRewardScore": 35,
+    "executiveTotalCompensationScore": 25,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 45,
+    "leadershipDevelopmentScore": 88,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1014,
+      "totalExecutivePay": 8111,
+      "executiveCount": 8,
+      "internalCount": 7,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Bank",
+    "year": 2023,
+    "executiveRewardScore": 100,
+    "executiveTotalCompensationScore": 100,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 53,
+    "leadershipDevelopmentScore": 91,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 2911,
+      "totalExecutivePay": 32016,
+      "executiveCount": 11,
+      "internalCount": 10,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Börse",
+    "year": 2023,
+    "executiveRewardScore": 31,
+    "executiveTotalCompensationScore": 17,
+    "esgCommitmentScore": 45,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 61,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 901,
+      "totalExecutivePay": 5404,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Deutsche Post",
+    "year": 2023,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 66,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 73,
+    "leadershipDevelopmentScore": 88,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1132,
+      "totalExecutivePay": 10186,
+      "executiveCount": 9,
+      "internalCount": 7,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Telekom",
+    "year": 2023,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 54,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 14,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1270,
+      "totalExecutivePay": 10162,
+      "executiveCount": 8,
+      "internalCount": 1,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "E.ON",
+    "year": 2023,
+    "executiveRewardScore": 48,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 51,
+    "leadershipDevelopmentScore": 40,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1391,
+      "totalExecutivePay": 6954,
+      "executiveCount": 5,
+      "internalCount": 2,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Fresenius",
+    "year": 2023,
+    "executiveRewardScore": 38,
+    "executiveTotalCompensationScore": 31,
+    "esgCommitmentScore": 48,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 53,
+    "leadershipDevelopmentScore": 38,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1109,
+      "totalExecutivePay": 9984,
+      "executiveCount": 9,
+      "internalCount": 3,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Hannover Rück",
+    "year": 2023,
+    "executiveRewardScore": 19,
+    "executiveTotalCompensationScore": 14,
+    "esgCommitmentScore": 25,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 60,
+    "leadershipDevelopmentScore": 25,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 561,
+      "totalExecutivePay": 4485,
+      "executiveCount": 8,
+      "internalCount": 2,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "Heidelberg Materials",
+    "year": 2023,
+    "executiveRewardScore": 33,
+    "executiveTotalCompensationScore": 27,
+    "esgCommitmentScore": 24,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 30,
+    "leadershipDevelopmentScore": 43,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 971,
+      "totalExecutivePay": 8740,
+      "executiveCount": 9,
+      "internalCount": 3,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Henkel",
+    "year": 2023,
+    "executiveRewardScore": 43,
+    "executiveTotalCompensationScore": 19,
+    "esgCommitmentScore": 47,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 45,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1249,
+      "totalExecutivePay": 6246,
+      "executiveCount": 5,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Infineon",
+    "year": 2023,
+    "executiveRewardScore": 35,
+    "executiveTotalCompensationScore": 16,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1007,
+      "totalExecutivePay": 5033,
+      "executiveCount": 5,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Mercedes-Benz",
+    "year": 2023,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 43,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1273,
+      "totalExecutivePay": 10184,
+      "executiveCount": 8,
+      "internalCount": 8,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Merck",
+    "year": 2023,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 24,
+    "esgCommitmentScore": 89,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 17,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1286,
+      "totalExecutivePay": 7714,
+      "executiveCount": 6,
+      "internalCount": 1,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "MTU",
+    "year": 2023,
+    "executiveRewardScore": 27,
+    "executiveTotalCompensationScore": 10,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 55,
+    "leadershipDevelopmentScore": 75,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 773,
+      "totalExecutivePay": 3092,
+      "executiveCount": 4,
+      "internalCount": 3,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Munich RE",
+    "year": 2023,
+    "executiveRewardScore": 63,
+    "executiveTotalCompensationScore": 57,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 63,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1824,
+      "totalExecutivePay": 18241,
+      "executiveCount": 10,
+      "internalCount": 5,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Porsche AG",
+    "year": 2023,
+    "executiveRewardScore": 30,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 80,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 863,
+      "totalExecutivePay": 6900,
+      "executiveCount": 8,
+      "internalCount": 4,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Porsche SE",
+    "year": 2023,
+    "executiveRewardScore": 28,
+    "executiveTotalCompensationScore": 10,
+    "esgCommitmentScore": 0,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 807,
+      "totalExecutivePay": 3227,
+      "executiveCount": 4,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Qiagen",
+    "year": 2023,
+    "executiveRewardScore": 26,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 61,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 89,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 758,
+      "totalExecutivePay": 1517,
+      "executiveCount": 2,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Rheinmetall",
+    "year": 2023,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 50,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 858,
+      "totalExecutivePay": 2573,
+      "executiveCount": 3,
+      "internalCount": 2,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "RWE",
+    "year": 2023,
+    "executiveRewardScore": 42,
+    "executiveTotalCompensationScore": 15,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 47,
+    "leadershipDevelopmentScore": 75,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1219,
+      "totalExecutivePay": 4878,
+      "executiveCount": 4,
+      "internalCount": 3,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "SAP",
+    "year": 2023,
+    "executiveRewardScore": 31,
+    "executiveTotalCompensationScore": 23,
+    "esgCommitmentScore": 44,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 65,
+    "leadershipDevelopmentScore": 63,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 906,
+      "totalExecutivePay": 7251,
+      "executiveCount": 8,
+      "internalCount": 5,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Sartorius",
+    "year": 2023,
+    "executiveRewardScore": 24,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 47,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 92,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 691,
+      "totalExecutivePay": 3457,
+      "executiveCount": 5,
+      "internalCount": 5,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Siemens",
+    "year": 2023,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 24,
+    "esgCommitmentScore": 46,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1518,
+      "totalExecutivePay": 7591,
+      "executiveCount": 5,
+      "internalCount": 2,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Siemens Energy",
+    "year": 2023,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 59,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1154,
+      "totalExecutivePay": 6926,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Siemens Healthineers",
+    "year": 2023,
+    "executiveRewardScore": 37,
+    "executiveTotalCompensationScore": 14,
+    "esgCommitmentScore": 47,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 61,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1088,
+      "totalExecutivePay": 4350,
+      "executiveCount": 4,
+      "internalCount": 1,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Symrise",
+    "year": 2023,
+    "executiveRewardScore": 24,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 26,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 696,
+      "totalExecutivePay": 3482,
+      "executiveCount": 5,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Volkswagen",
+    "year": 2023,
+    "executiveRewardScore": 61,
+    "executiveTotalCompensationScore": 56,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 55,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1782,
+      "totalExecutivePay": 17821,
+      "executiveCount": 10,
+      "internalCount": 4,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Vonovia",
+    "year": 2023,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 65,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 80,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1176,
+      "totalExecutivePay": 7054,
+      "executiveCount": 6,
+      "internalCount": 0,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "Zalando",
+    "year": 2023,
+    "executiveRewardScore": 16,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 452,
+      "totalExecutivePay": 2710,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Adidas",
+    "year": 2024,
+    "executiveRewardScore": 55,
+    "executiveTotalCompensationScore": 30,
+    "esgCommitmentScore": 65,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 45,
+    "leadershipDevelopmentScore": 83,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1597,
+      "totalExecutivePay": 9585,
+      "executiveCount": 6,
+      "internalCount": 5,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Airbus",
+    "year": 2024,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 42,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 48,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1520,
+      "totalExecutivePay": 1520,
+      "executiveCount": 1,
+      "internalCount": 1,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Allianz",
+    "year": 2024,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 73,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 64,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1141,
+      "totalExecutivePay": 10267,
+      "executiveCount": 9,
+      "internalCount": 6,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "BASF",
+    "year": 2024,
+    "executiveRewardScore": 49,
+    "executiveTotalCompensationScore": 36,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 67,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1432,
+      "totalExecutivePay": 11460,
+      "executiveCount": 8,
+      "internalCount": 8,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Bayer",
+    "year": 2024,
+    "executiveRewardScore": 52,
+    "executiveTotalCompensationScore": 33,
+    "esgCommitmentScore": 67,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 69,
+    "leadershipDevelopmentScore": 57,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1511,
+      "totalExecutivePay": 10576,
+      "executiveCount": 7,
+      "internalCount": 4,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Beiersdorf",
+    "year": 2024,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 22,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 14,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 991,
+      "totalExecutivePay": 6936,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "BMW",
+    "year": 2024,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 25,
+    "esgCommitmentScore": 75,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 28,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1148,
+      "totalExecutivePay": 8036,
+      "executiveCount": 7,
+      "internalCount": 7,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Brenntag",
+    "year": 2024,
+    "executiveRewardScore": 30,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 91,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 84,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 882,
+      "totalExecutivePay": 3526,
+      "executiveCount": 4,
+      "internalCount": 0,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Commerzbank",
+    "year": 2024,
+    "executiveRewardScore": 43,
+    "executiveTotalCompensationScore": 32,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 25,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1264,
+      "totalExecutivePay": 10110,
+      "executiveCount": 8,
+      "internalCount": 2,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "Continental",
+    "year": 2024,
+    "executiveRewardScore": 31,
+    "executiveTotalCompensationScore": 19,
+    "esgCommitmentScore": 66,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 70,
+    "leadershipDevelopmentScore": 71,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 890,
+      "totalExecutivePay": 6229,
+      "executiveCount": 7,
+      "internalCount": 5,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Daimler Truck",
+    "year": 2024,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 28,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 61,
+    "leadershipDevelopmentScore": 78,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 995,
+      "totalExecutivePay": 8959,
+      "executiveCount": 9,
+      "internalCount": 7,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Deutsche Bank",
+    "year": 2024,
+    "executiveRewardScore": 99,
+    "executiveTotalCompensationScore": 90,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 62,
+    "leadershipDevelopmentScore": 90,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 2871,
+      "totalExecutivePay": 28708,
+      "executiveCount": 10,
+      "internalCount": 9,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Börse",
+    "year": 2024,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 21,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 62,
+    "leadershipDevelopmentScore": 17,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 976,
+      "totalExecutivePay": 6832,
+      "executiveCount": 7,
+      "internalCount": 1,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Deutsche Post",
+    "year": 2024,
+    "executiveRewardScore": 36,
+    "executiveTotalCompensationScore": 26,
+    "esgCommitmentScore": 66,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 72,
+    "leadershipDevelopmentScore": 88,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1039,
+      "totalExecutivePay": 8313,
+      "executiveCount": 8,
+      "internalCount": 7,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Deutsche Telekom",
+    "year": 2024,
+    "executiveRewardScore": 43,
+    "executiveTotalCompensationScore": 31,
+    "esgCommitmentScore": 53,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 53,
+    "leadershipDevelopmentScore": 29,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1251,
+      "totalExecutivePay": 10009,
+      "executiveCount": 8,
+      "internalCount": 2,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "E.ON",
+    "year": 2024,
+    "executiveRewardScore": 45,
+    "executiveTotalCompensationScore": 25,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 61,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1318,
+      "totalExecutivePay": 7909,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Fresenius",
+    "year": 2024,
+    "executiveRewardScore": 39,
+    "executiveTotalCompensationScore": 18,
+    "esgCommitmentScore": 48,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 56,
+    "leadershipDevelopmentScore": 20,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1125,
+      "totalExecutivePay": 5626,
+      "executiveCount": 5,
+      "internalCount": 1,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Fresenius Medical Care",
+    "year": 2024,
+    "executiveRewardScore": 48,
+    "executiveTotalCompensationScore": 26,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 33,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1390,
+      "totalExecutivePay": 8343,
+      "executiveCount": 6,
+      "internalCount": 2,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Hannover Rück",
+    "year": 2024,
+    "executiveRewardScore": 21,
+    "executiveTotalCompensationScore": 17,
+    "esgCommitmentScore": 40,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 60,
+    "leadershipDevelopmentScore": 33,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 615,
+      "totalExecutivePay": 5533,
+      "executiveCount": 9,
+      "internalCount": 3,
+      "externalCount": 6
+    }
+  },
+  {
+    "company": "Heidelberg Materials",
+    "year": 2024,
+    "executiveRewardScore": 40,
+    "executiveTotalCompensationScore": 40,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 47,
+    "leadershipDevelopmentScore": 33,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1166,
+      "totalExecutivePay": 12830,
+      "executiveCount": 11,
+      "internalCount": 2,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "Henkel",
+    "year": 2024,
+    "executiveRewardScore": 46,
+    "executiveTotalCompensationScore": 21,
+    "esgCommitmentScore": 67,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 45,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1330,
+      "totalExecutivePay": 6648,
+      "executiveCount": 5,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Infineon",
+    "year": 2024,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 18,
+    "esgCommitmentScore": 64,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 68,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 981,
+      "totalExecutivePay": 5886,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Mercedes-Benz",
+    "year": 2024,
+    "executiveRewardScore": 46,
+    "executiveTotalCompensationScore": 34,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 51,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1344,
+      "totalExecutivePay": 10753,
+      "executiveCount": 8,
+      "internalCount": 8,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Merck",
+    "year": 2024,
+    "executiveRewardScore": 44,
+    "executiveTotalCompensationScore": 20,
+    "esgCommitmentScore": 70,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 100,
+    "leadershipDevelopmentScore": 20,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1289,
+      "totalExecutivePay": 6447,
+      "executiveCount": 5,
+      "internalCount": 1,
+      "externalCount": 4
+    }
+  },
+  {
+    "company": "MTU",
+    "year": 2024,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 32,
+    "leadershipDevelopmentScore": 75,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 842,
+      "totalExecutivePay": 3369,
+      "executiveCount": 4,
+      "internalCount": 3,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Munich RE",
+    "year": 2024,
+    "executiveRewardScore": 70,
+    "executiveTotalCompensationScore": 63,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 63,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 2030,
+      "totalExecutivePay": 20297,
+      "executiveCount": 10,
+      "internalCount": 5,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Porsche AG",
+    "year": 2024,
+    "executiveRewardScore": 36,
+    "executiveTotalCompensationScore": 26,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 54,
+    "leadershipDevelopmentScore": 80,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1056,
+      "totalExecutivePay": 8451,
+      "executiveCount": 8,
+      "internalCount": 4,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Porsche SE",
+    "year": 2024,
+    "executiveRewardScore": 29,
+    "executiveTotalCompensationScore": 11,
+    "esgCommitmentScore": 56,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 842,
+      "totalExecutivePay": 3367,
+      "executiveCount": 4,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Qiagen",
+    "year": 2024,
+    "executiveRewardScore": 26,
+    "executiveTotalCompensationScore": 5,
+    "esgCommitmentScore": 50,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 85,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 759,
+      "totalExecutivePay": 1518,
+      "executiveCount": 2,
+      "internalCount": 2,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "Rheinmetall",
+    "year": 2024,
+    "executiveRewardScore": 34,
+    "executiveTotalCompensationScore": 12,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 46,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 991,
+      "totalExecutivePay": 3964,
+      "executiveCount": 4,
+      "internalCount": 2,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "RWE",
+    "year": 2024,
+    "executiveRewardScore": 47,
+    "executiveTotalCompensationScore": 13,
+    "esgCommitmentScore": 79,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 60,
+    "leadershipDevelopmentScore": 100,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1362,
+      "totalExecutivePay": 4086,
+      "executiveCount": 3,
+      "internalCount": 3,
+      "externalCount": 0
+    }
+  },
+  {
+    "company": "SAP",
+    "year": 2024,
+    "executiveRewardScore": 37,
+    "executiveTotalCompensationScore": 27,
+    "esgCommitmentScore": 68,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 64,
+    "leadershipDevelopmentScore": 63,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1066,
+      "totalExecutivePay": 8529,
+      "executiveCount": 8,
+      "internalCount": 5,
+      "externalCount": 3
+    }
+  },
+  {
+    "company": "Sartorius",
+    "year": 2024,
+    "executiveRewardScore": 28,
+    "executiveTotalCompensationScore": 10,
+    "esgCommitmentScore": 47,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 45,
+    "leadershipDevelopmentScore": 75,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 825,
+      "totalExecutivePay": 3299,
+      "executiveCount": 4,
+      "internalCount": 3,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Siemens",
+    "year": 2024,
+    "executiveRewardScore": 55,
+    "executiveTotalCompensationScore": 25,
+    "esgCommitmentScore": 46,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 55,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1616,
+      "totalExecutivePay": 8080,
+      "executiveCount": 5,
+      "internalCount": 2,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Siemens Energy",
+    "year": 2024,
+    "executiveRewardScore": 43,
+    "executiveTotalCompensationScore": 23,
+    "esgCommitmentScore": 69,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1243,
+      "totalExecutivePay": 7460,
+      "executiveCount": 6,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Siemens Healthineers",
+    "year": 2024,
+    "executiveRewardScore": 38,
+    "executiveTotalCompensationScore": 14,
+    "esgCommitmentScore": 67,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 65,
+    "leadershipDevelopmentScore": 50,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1098,
+      "totalExecutivePay": 4393,
+      "executiveCount": 4,
+      "internalCount": 1,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Symrise",
+    "year": 2024,
+    "executiveRewardScore": 25,
+    "executiveTotalCompensationScore": 13,
+    "esgCommitmentScore": 48,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 0,
+    "leadershipDevelopmentScore": 67,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 719,
+      "totalExecutivePay": 4313,
+      "executiveCount": 6,
+      "internalCount": 4,
+      "externalCount": 2
+    }
+  },
+  {
+    "company": "Volkswagen",
+    "year": 2024,
+    "executiveRewardScore": 59,
+    "executiveTotalCompensationScore": 49,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 59,
+    "leadershipDevelopmentScore": 83,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1730,
+      "totalExecutivePay": 15566,
+      "executiveCount": 9,
+      "internalCount": 5,
+      "externalCount": 1
+    }
+  },
+  {
+    "company": "Vonovia",
+    "year": 2024,
+    "executiveRewardScore": 41,
+    "executiveTotalCompensationScore": 19,
+    "esgCommitmentScore": 65,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 71,
+    "leadershipDevelopmentScore": 0,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 1201,
+      "totalExecutivePay": 6007,
+      "executiveCount": 5,
+      "internalCount": 0,
+      "externalCount": 5
+    }
+  },
+  {
+    "company": "Zalando",
+    "year": 2024,
+    "executiveRewardScore": 17,
+    "executiveTotalCompensationScore": 8,
+    "esgCommitmentScore": 80,
+    "transparencyScore": 50,
+    "longTermOrientationScore": 93,
+    "leadershipDevelopmentScore": 60,
+    "employeeFocusScore": 50,
+    "details": {
+      "avgExecutivePay": 491,
+      "totalExecutivePay": 2455,
+      "executiveCount": 5,
+      "internalCount": 3,
+      "externalCount": 2
+    }
+  }
+]

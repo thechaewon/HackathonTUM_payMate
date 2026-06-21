@@ -1,0 +1,772 @@
+﻿cnameshort,year,pfirstname,psurname,gpv,hp,ceo
+Adidas,2022,Kasper,Rorsted,"2,275",1.2,1
+Allianz,2022,Oliver,Bäte,"7,377",1.0,1
+BASF,2022,Martin,Brudermüller,"6,571",1.0,1
+Bayer,2022,Werner,Baumann,"6,541",1.0,1
+Beiersdorf,2022,Vincent ,Warnery,"4,614",1.0,1
+BMW,2022,Oliver,Zipse,"7,916",1.0,1
+Brenntag,2022,Christian,Kohlpaintner ,"4,338",1.0,1
+Commerzbank,2022,Manfred,Knof,"3,544",1.0,1
+Continental,2022,Nikolai,Setzer,"4,319",1.0,1
+Covestro,2022,Markus,Steilemann,"2,893",1.0,1
+Daimler Truck,2022,Martin,Daum,"5,239",1.0,1
+Deutsche Bank,2022,Christian,Sewing,"9,150",1.0,1
+Deutsche Börse,2022,Theodor,Weimer,"6,014",1.0,1
+Deutsche Post,2022,Frank,Appel,"6,008",1.0,1
+Deutsche Telekom,2022,Timotheus,Höttges,"7,339",1.0,1
+E.ON,2022,Leonhard,Birnbaum,"6,796",1.0,1
+Airbus,2022,Guillaume,Faury,"5,045",1.0,1
+Fresenius,2022,Michael,Sen,"3,882",1.0,1
+Hannover Rück,2022,Jean-Jacques,Henchoz,"2,751",1.0,1
+Heidelberg Cement,2022,Dominik,von Achten,"6,137",1.0,1
+Henkel,2022,Carsten,Knobel,"6,394",1.0,1
+Infineon,2022,Reinhard,Ploss,"4,256",2.0,1
+Infineon,2022,Jochen,Hanebeck,"3,784",1.0,1
+Mercedes-Benz,2022,Ola,Källenius,"6,430",1.0,1
+Merck,2022,Belén,Garijo Lopez,"8,281",1.0,1
+MTU,2022,Reiner,Winkler,"3,835",1.0,1
+Munich RE,2022,Joachim,Wenning,"5,038",1.0,1
+Porsche,2022,Oliver,Blume,530,1.0,1
+Porsche Automobil Holding,2022,Hans Dieter,Pötsch,"1,875",1.0,1
+Qiagen,2022,Thierry,Bernard,"7,198",1.0,1
+Rheinmetall,2022,Armin,Papperger,"4,177",1.0,1
+RWE,2022,Markus,Krebber,"5,479",1.0,1
+SAP,2022,Christian,Klein,"7,776",1.0,1
+Sartorius,2022,Joachim,Kreuzburg,"2,108",1.0,1
+Siemens,2022,Roland,Busch,"7,314",1.0,1
+Siemens Energy,2022,Christian,Bruch,"4,944",1.0,1
+Siemens Healthineers,2022,Bernhard,Montag,"4,896",1.0,1
+Symrise,2022,Heinz-Jürgen,Bertram,"2,796",1.0,1
+Volkswagen,2022,Oliver,Blume,"8,847",1.0,1
+Vonovia,2022,Rolf,Buch,"4,683",1.0,1
+Zalando,2022,Robert,Gentz,78,1.0,1
+Zalando,2022,David,Schneider,78,1.0,1
+Adidas,2023,Bjørn,Gulden,"9,181",1.0,1
+Airbus,2023,Guillaume,Faury,"4,921",1.0,1
+Allianz,2023,Oliver,Bäte,"7,733",1.0,1
+BASF,2023,Martin,Brudermüller,"5,177",1.0,1
+Bayer,2023,Bill,Anderson,"7,173",1.3,1
+Bayer,2023,Werner,Baumann,"4,827",2.4,1
+Beiersdorf,2023,Vincent ,Warnery,"4,512",1.0,1
+BMW,2023,Oliver,Zipse,"8,023",1.0,1
+Brenntag,2023,Christian,Kohlpaintner ,"2,710",1.0,1
+Commerzbank,2023,Manfred,Knof,"3,730",1.0,1
+Continental,2023,Nikolai,Setzer,"5,171",1.0,1
+Covestro,2023,Markus,Steilemann,"3,656",1.0,1
+Daimler Truck,2023,Martin,Daum,"5,992",1.0,1
+Deutsche Bank,2023,Christian,Sewing,"9,001",1.0,1
+Deutsche Börse,2023,Theodor,Weimer,"7,451",1.0,1
+Deutsche Post,2023,Tobias,Meyer,"3,853",1.0,1
+Deutsche Telekom,2023,Timotheus,Höttges,"7,535",1.0,1
+E.ON,2023,Leonhard,Birnbaum,"7,045",1.0,1
+Fresenius,2023,Michael,Sen,"1,737",1.0,1
+Hannover Rück,2023,Jean-Jacques,Henchoz,"3,218",1.0,1
+Heidelberg Materials,2023,Dominik,von Achten,"6,628",1.0,1
+Henkel,2023,Carsten,Knobel,"7,195",1.0,1
+Infineon,2023,Jochen,Hanebeck,"4,055",1.0,1
+Mercedes-Benz,2023,Ola,Källenius,"8,112",1.0,1
+Merck,2023,Belén,Garijo Lopez,"8,476",1.0,1
+MTU,2023,Lars,Wagner,"3,033",1.0,1
+Munich RE,2023,Joachim,Wenning,"5,472",1.0,1
+Porsche AG,2023,Oliver,Blume,"3,389",1.0,1
+Porsche SE,2023,Hans Dieter,Pötsch,"2,008",1.0,1
+Qiagen,2023,Thierry,Bernard,"6,743",1.0,1
+Rheinmetall,2023,Armin,Papperger,"4,565",1.0,1
+RWE,2023,Markus,Krebber,"6,790",1.0,1
+SAP,2023,Christian,Klein,"8,809",1.0,1
+Sartorius,2023,Joachim,Kreuzburg,"1,775",1.0,1
+Siemens,2023,Roland,Busch,"8,485",1.0,1
+Siemens Energy,2023,Christian,Bruch,"5,462",1.0,1
+Siemens Healthineers,2023,Bernhard,Montag,"5,397",1.0,1
+Symrise,2023,Heinz-Jürgen,Bertram,"2,748",1.0,1
+Volkswagen,2023,Oliver,Blume,"10,322",1.0,1
+Vonovia,2023,Rolf,Buch,"4,402",1.0,1
+Zalando,2023,Robert,Gentz,"6,222",1.0,1
+Zalando,2023,David,Schneider,"6,222",1.0,1
+Adidas,2024,Bjørn,Gulden,"10,317",1.0,1
+Airbus,2024,Guillaume,Faury,"4,587",1.0,1
+Allianz,2024,Oliver,Bäte,"8,463",1.0,1
+BASF,2024,Markus,Kamieth,"5,890",1.0,1
+BASF,2024,Martin,Brudermüller,"6,882",3.2,1
+Bayer,2024,Bill,Anderson,"8,419",1.0,1
+Beiersdorf,2024,Vincent ,Warnery,"4,272",1.0,1
+BMW,2024,Oliver,Zipse,"4,746",1.0,1
+Brenntag,2024,Christian,Kohlpaintner ,"2,954",1.0,1
+Commerzbank,2024,Bettina,Orlopp,"2,614",1.0,1
+Commerzbank,2024,Manfred,Knof,"3,637",1.3,1
+Continental,2024,Nikolai,Setzer,"4,541",1.0,1
+Daimler Truck,2024,Karin,Rådström,"3,083",1.0,1
+Daimler Truck,2024,Martin,Daum,"5,138",1.0,1
+Deutsche Bank,2024,Christian,Sewing,"9,866",1.0,1
+Deutsche Börse,2024,Theodor,Weimer,"7,432",1.0,1
+Deutsche Börse,2024,Stephan,Leithner,"5,441",1.0,1
+Deutsche Post,2024,Tobias,Meyer,"4,252",1.0,1
+Deutsche Telekom,2024,Timotheus,Höttges,"7,730",1.0,1
+E.ON,2024,Leonhard,Birnbaum,"6,144",1.0,1
+Fresenius,2024,Michael,Sen,"6,671",1.0,1
+Fresenius Medical Care,2024,Helen,Giza,"5,832",1.0,1
+Hannover Rück,2024,Jean-Jacques,Henchoz,"3,642",1.0,1
+Heidelberg Materials,2024,Dominik,von Achten,"6,770",1.0,1
+Henkel,2024,Carsten,Knobel,"7,226",1.0,1
+Infineon,2024,Jochen,Hanebeck,"3,493",1.0,1
+Mercedes-Benz,2024,Ola,Källenius,"7,724",1.0,1
+Merck,2024,Belén,Garijo Lopez,"8,373",1.0,1
+MTU,2024,Lars,Wagner,"5,465",1.0,1
+Munich RE,2024,Joachim,Wenning,"5,926",1.0,1
+Porsche AG,2024,Oliver,Blume,"4,049",1.0,1
+Porsche SE,2024,Hans Dieter,Pötsch,"2,105",1.0,1
+Qiagen,2024,Thierry,Bernard,"7,069",1.0,1
+Rheinmetall,2024,Armin,Papperger,"5,017",1.0,1
+RWE,2024,Markus,Krebber,"6,079",1.0,1
+SAP,2024,Christian,Klein,"9,268",1.0,1
+Sartorius,2024,Joachim,Kreuzburg,"2,144",1.0,1
+Siemens,2024,Roland,Busch,"8,012",1.0,1
+Siemens Energy,2024,Christian,Bruch,"2,121",1.0,1
+Siemens Healthineers,2024,Bernhard,Montag,"5,777",1.0,1
+Symrise,2024,Jean-Yves,Parisot,"3,460",1.0,1
+Symrise,2024,Heinz-Jürgen,Bertram,"6,873",4.0,1
+Volkswagen,2024,Oliver,Blume,"10,599",1.0,1
+Vonovia,2024,Rolf,Buch,"4,807",1.0,1
+Zalando,2024,Robert,Gentz,"4,185",1.0,1
+Zalando,2024,David,Schröder,"3,677",1.0,1
+Adidas,2022,Roland,Auschel,954,1.0,0
+Adidas,2022,Brian,Grevy,828,1.0,0
+Adidas,2022,Harm,Ohlmeyer,937,1.0,0
+Adidas,2022,Amanda,Rajkumar,873,1.0,0
+Adidas,2022,Martin,Shankland,916,1.0,0
+Allianz,2022,Sergio,Balbinot,"3,754",1.0,0
+Allianz,2022,Sirma,Boshnakova,"3,687",1.0,0
+Allianz,2022,Barbara,Karuth-Zelle,"3,671",1.0,0
+Allianz,2022,Klaus-Peter,Röhler,"3,727",1.0,0
+Allianz,2022,Iván,de la Sota,"3,142",1.0,0
+Allianz,2022,Giulio,Terzariol,"3,715",1.0,0
+Allianz,2022,Günther,Thallinger,"3,687",1.0,0
+Allianz,2022,Christopher,Townsend,"3,715",1.0,0
+Allianz,2022,Renate,Wagner,"3,734",1.0,0
+Allianz,2022,Andreas,Wimmer,"3,669",1.0,0
+BASF,2022,Saori,Dubourg,"3,326",1.0,0
+BASF,2022,Hans-Ulrich,Engel,"4,413",1.0,0
+BASF,2022,Michael,Heinz,"3,729",1.0,0
+BASF,2022,Markus,Kamieth,"3,806",1.0,0
+BASF,2022,Melanie,Maas–Brunner,"3,561",1.0,0
+Bayer,2022,Sarena,Lin,"3,693",1.0,0
+Bayer,2022,Wolfgang,Nickl,"3,530",1.0,0
+Bayer,2022,Stefan,Oelrich,"3,312",1.0,0
+Bayer,2022,Rodrigo,Santos,"4,176",1.0,0
+Bayer,2022,Heiko,Schipper,"3,521",1.0,0
+Beiersdorf,2022,Oswald ,Barckhahn,"2,675",1.0,0
+Beiersdorf,2022,Astrid ,Hermann,"1,391",1.0,0
+Beiersdorf,2022,Thomas ,Ingelfinger,"1,472",2.0,0
+Beiersdorf,2022,Nicola ,Lafrentz,"1,476",1.5,0
+Beiersdorf,2022,Zhengrong,Liu,"1,847",1.0,0
+Beiersdorf,2022,Grita ,Loebsack,"2,819",1.0,0
+Beiersdorf,2022,Ramon,Mirt ,"2,571",1.0,0
+Beiersdorf,2022,Patrick ,Rasquinet,"1,777",1.0,0
+BMW,2022,Ilka,Horstmeier,"3,783",1.0,0
+BMW,2022,Milan,Nedeljković,"3,819",1.0,0
+BMW,2022,Pieter,Nota,"4,313",1.0,0
+BMW,2022,Nicolas,Peter,"4,330",1.0,0
+BMW,2022,Joachim,Post,"3,736",1.0,0
+BMW,2022,Frank,Weber,"3,668",1.0,0
+Brenntag,2022,Ewout,van Jarwaarde,"2,086",1.0,0
+Brenntag,2022,Georg,Müller,"1,717",4.1,0
+Brenntag,2022,Henri,Nejade,"2,579",1.0,0
+Brenntag,2022,Kristin,Neumann,"2,196",1.2,0
+Brenntag,2022,Steven,Terwindt,"2,308",1.0,0
+Commerzbank,2022,Jörg,Oliveri del Castillo-Schulz,"1,834",1.1,0
+Commerzbank,2022,Marcus,Chromik,"1,743",1.0,0
+Commerzbank,2022,Michael,Kotzbauer,"1,956",1.0,0
+Commerzbank,2022,Bettina,Orlopp,"2,126",1.0,0
+Commerzbank,2022,Thomas,Schaufler,"1,816",1.0,0
+Commerzbank,2022,Sabine,Schmittroth,"1,758",1.0,0
+Continental,2022,Katja,Dürrfeld,"2,212",1.0,0
+Continental,2022,Christian,Kötz,"2,353",1.0,0
+Continental,2022,Philip,Nelles,"2,142",1.0,0
+Continental,2022,Ariane,Reinhart,"2,202",1.0,0
+Covestro,2022,Sucheta,Govil,"1,474",1.0,0
+Covestro,2022,Klaus,Schäfer,"1,469",1.0,0
+Covestro,2022,Thomas,Toepfer,"1,779",1.0,0
+Daimler Truck,2022,Karl,Deppen,"2,735",1.0,0
+Daimler Truck,2022,Jochen,Goetz,"2,620",1.0,0
+Daimler Truck,2022,Andreas,Gorbach,"2,502",1.0,0
+Daimler Truck,2022,Jürgen,Hartwig,"2,459",1.0,0
+Daimler Truck,2022,John,O'Leary,"3,384",1.0,0
+Daimler Truck,2022,Karin,Rådström,"2,611",1.0,0
+Daimler Truck,2022,Stephan,Unger,"2,451",1.0,0
+Qiagen,2022,Roland,Sackers,"4,498",1.0,
+Deutsche Bank,2022,Fabrizio,Campelli,"6,543",1.0,0
+Deutsche Bank,2022,Bernd,Leukert,"6,272",1.0,0
+Deutsche Bank,2022,Stuart,Lewis,"5,663",2.4,0
+Deutsche Bank,2022,James,von Moltke,"7,466",1.0,0
+Deutsche Bank,2022,Alexander,von zur Mühlen,"7,187",1.0,0
+Deutsche Bank,2022,Christiana,Riley,"7,228",1.0,0
+Deutsche Bank,2022,Karl,von Rohr,"7,275",1.0,0
+Deutsche Bank,2022,Rebecca,Short,"6,361",1.0,0
+Deutsche Bank,2022,Stefan,Simon,"6,269",1.0,0
+Deutsche Bank,2022,Olivier,Vigneron,"5,476",1.6,0
+Deutsche Börse,2022,Christoph,Böhm,"2,820",1.0,0
+Deutsche Börse,2022,Thomas,Book,"2,614",1.0,0
+Deutsche Börse,2022,Heike,Eckert,"2,596",1.0,0
+Deutsche Börse,2022,Stephan,Leithner,"2,856",1.0,0
+Deutsche Börse,2022,Gregor,Pottmeyer,"2,842",1.0,0
+Deutsche Post,2022,Ken,Allen,"1,953",1.7,0
+Deutsche Post,2022,Oscar,de Bok,"2,536",1.0,0
+Deutsche Post,2022,Pablo,Ciano,"2,503",2.4,0
+Deutsche Post,2022,Nikola,Hagleitner,"2,459",2.0,0
+Deutsche Post,2022,Melanie,Kreis,"2,853",1.0,0
+Deutsche Post,2022,Tobias,Meyer,"2,664",1.0,0
+Deutsche Post,2022,Thomas,Ogilvie,"2,703",1.0,0
+Deutsche Post,2022,John,Pearson,"2,776",1.0,0
+Deutsche Post,2022,Tim,Scharwath,"2,715",1.0,0
+Deutsche Telekom,2022,Adel,Al-Saleh,"3,285",1.0,0
+Deutsche Telekom,2022,Birgit,Bohle,"3,423",1.0,0
+Deutsche Telekom,2022,Srinivasan,Gopalan,"3,453",1.0,0
+Deutsche Telekom,2022,Christian P.,Illek,"3,521",1.0,0
+Deutsche Telekom,2022,Thorsten,Langheim,"3,319",1.0,0
+Deutsche Telekom,2022,Dominique,Leroy,"3,185",1.0,0
+Deutsche Telekom,2022,Claudia,Nemat,"3,672",1.0,0
+E.ON,2022,Thomas,König,"3,631",1.0,0
+E.ON,2022,Patrick,Lammers,"3,735",1.0,0
+E.ON,2022,Victoria,Ossadnik,"3,704",1.0,0
+E.ON,2022,Marc,Spieker,"3,642",1.0,0
+Fresenius,2022,Sebastian,Biedenkopf,"1,800",1.0,0
+Fresenius,2022,Francesco,De Meo,"3,392",1.0,0
+Fresenius,2022,Rachel,Empey,"1,371",1.5,0
+Fresenius,2022,Helen,Giza,"2,690",14.6,0
+Fresenius,2022,Sara,Hennicken,"1,314",3.0,0
+Fresenius,2022,Carla,Kriwet,"2,729",4.1,0
+Fresenius,2022,Rice,Powell,"4,640",1.0,0
+Fresenius,2022,Stephan,Sturm,"2,617",1.0,0
+Fresenius,2022,Ernst,Wastler,"2,516",1.0,0
+Hannover Rück,2022,Sven,Althoff,"1,711",1.0,0
+Hannover Rück,2022,Claude,Chèvre,"1,749",1.0,0
+Hannover Rück,2022,Clemens,Jungsthöfel,"1,507",1.0,0
+Hannover Rück,2022,Klaus,Miller,"1,753",1.0,0
+Hannover Rück,2022,Michael,Pickel,"1,709",1.0,0
+Hannover Rück,2022,Silke,Sehm,"1,444",1.0,0
+Heidelberg Cement,2022,René,Aldach,"2,145",1.0,0
+Heidelberg Cement,2022,Kevin,Gluskie,"3,796",1.0,0
+Heidelberg Cement,2022,Hakan,Gurdal,"2,784",1.0,0
+Heidelberg Cement,2022,Ernest,Jelito,"2,607",1.0,0
+Heidelberg Cement,2022,Nicola,Kimm,"2,182",1.0,0
+Heidelberg Cement,2022,Dennis,Lentz,"2,441",1.0,0
+Heidelberg Cement,2022,Jon,Morrish,"3,262",1.0,0
+Heidelberg Cement,2022,Chris,Ward,"3,237",1.0,0
+Henkel,2022,Jan-Dirk,Auris,"4,928",1.0,0
+Henkel,2022,Wolfgang,König,"4,219",1.0,0
+Henkel,2022,Sylvie,Nicol,"4,119",1.0,0
+Henkel,2022,Bruno,Piacenza,"4,131",1.3,0
+Henkel,2022,Marco,Swoboda,"3,825",1.0,0
+Infineon,2022,Helmut,Gassel,"2,662",1.5,0
+Infineon,2022,Constanze,Hufenbecher,"2,456",1.0,0
+Infineon,2022,Sven,Schneider,"2,982",1.0,0
+Infineon,2022,Andreas,Urschitz,"1,957",3.0,0
+Infineon,2022,Rutger,Wijburg,"2,081",2.0,0
+Mercedes-Benz,2022,Jörg,Burzer,"3,441",1.0,0
+Mercedes-Benz,2022,Renata,Jungo Brüngger,"3,273",1.0,0
+Mercedes-Benz,2022,Sabine,Kohleisen,"3,374",1.0,0
+Mercedes-Benz,2022,Markus,Schäfer,"3,271",1.0,0
+Mercedes-Benz,2022,Britta,Seeger,"3,255",1.0,0
+Mercedes-Benz,2022,Hubertus,Troska,"3,742",1.0,0
+Mercedes-Benz,2022,Harald,Wilhelm,"3,290",1.0,0
+Merck,2022,Kai,Beckmann,"6,123",1.0,0
+Merck,2022,Peter,Guenter,"6,673",1.0,0
+Merck,2022,Matthias,Heinzel,"6,664",1.0,0
+Merck,2022,Marcus,Kuhnert,"5,619",1.0,0
+MTU,2022,Peter,Kameritsch,"1,973",1.0,0
+MTU,2022,Michael,Schreyögg,"1,992",1.0,0
+MTU,2022,Lars,Wagner,"1,977",1.0,0
+Munich RE,2022,Thomas,Blunck,"2,451",1.0,0
+Munich RE,2022,Nicholas,Gartside,"4,067",1.0,0
+Munich RE,2022,Stefan,Golling,"3,066",1.0,0
+Munich RE,2022,Doris,Höpke,"2,408",3.0,0
+Munich RE,2022,Torsten,Jeworrek,"3,555",1.0,0
+Munich RE,2022,Christoph,Jurecka,"3,523",1.0,0
+Munich RE,2022,Achim,Kassow,"3,075",1.0,0
+Munich RE,2022,Clarisse,Kopff,"3,131",12.2,0
+Munich RE,2022,Markus,Rieß,"1,042",1.0,0
+Porsche,2022,Barbara,Frenkel,"2,925",1.0,0
+Porsche,2022,Andreas,Haffner,"2,948",1.0,0
+Porsche,2022,Lutz,Meschke,"3,415",1.0,0
+Porsche,2022,Detlev,von Platen,"2,947",1.0,0
+Porsche,2022,Albrecht,Reimold,"2,938",1.0,0
+Porsche,2022,Michael,Steiner,"2,938",1.0,0
+Porsche Automobil Holding,2022,Manfred,Döss,"1,461",1.0,0
+Porsche Automobil Holding,2022,Johannes,Lattwein,"1,564",1.1,0
+Porsche Automobil Holding,2022,Lutz,Meschke,897,1.0,0
+Rheinmetall,2022,Peter,Krause,"1,657",1.0,0
+Rheinmetall,2022,Helmut,Merch,"2,219",1.0,0
+Rheinmetall,2022,Dagmar,Steinert,"2,114",12.2,0
+RWE,2022,Michael,Müller,"2,887",1.0,0
+RWE,2022,Zvezdana,Seeger,"2,869",1.0,0
+SAP,2022,Sabine,Bendiek,"3,587",1.0,0
+SAP,2022,Luka,Mucic,"4,371",1.0,0
+SAP,2022,Jürgen,Müller,"3,579",1.0,0
+SAP,2022,Scott,Russell,"4,930",1.0,0
+SAP,2022,Thomas,Saueressig,"3,708",1.0,0
+SAP,2022,Julia,White,"4,013",1.0,0
+Sartorius,2022,René,Fáber,"1,082",1.0,0
+Sartorius,2022,Rainer,Lehmann,"1,199",1.0,0
+Sartorius,2022,John Gerard,Mackay,"1,238",1.0,0
+Siemens,2022,Cedrik,Neike,"3,854",1.0,0
+Siemens,2022,Matthias,Rebellius,"4,420",1.0,0
+Siemens,2022,Ralf P.,Thomas,"4,684",1.0,0
+Siemens,2022,Judith,Wiese,"4,482",1.0,0
+Siemens Energy,2022,Karim,Amin,"1,892",1.7,0
+Siemens Energy,2022,Jochen,Eickholt,"1,872",2.4,0
+Siemens Energy,2022,Maria,Ferraro,"2,431",1.0,0
+Siemens Energy,2022,Tim,Holt,"2,590",1.0,0
+Siemens Healthineers,2022,Darleen,Caron,"2,385",1.0,0
+Siemens Healthineers,2022,Jochen,Schmitz,"2,438",1.0,0
+Siemens Healthineers,2022,Elisabeth,Staudinger-Leibrecht,"1,663",1.1,0
+Siemens Healthineers,2022,Christoph,Zindel,"1,581",2.0,0
+Symrise,2022,Olaf,Klinger,"1,642",1.0,0
+Symrise,2022,Jean-Yves,Parisot,"1,994",1.0,0
+Volkswagen,2022,Murat,Aksel,"5,084",1.5,0
+Volkswagen,2022,Arno,Antlitz,"5,613",1.0,0
+Volkswagen,2022,Ralf,Brandstätter,"4,960",1.0,0
+Volkswagen,2022,Herbert,Diess,"5,428",1.5,0
+Volkswagen,2022,Manfred,Döss,"4,107",1.1,0
+Volkswagen,2022,Markus,Duesmann,"5,630",1.0,0
+Volkswagen,2022,Gunnar,Kilian,"4,649",1.0,0
+Volkswagen,2022,Thomas,Schäfer,"4,404",2.0,0
+Volkswagen,2022,Thomas,Schmall-von Westerholt,"5,615",1.0,0
+Volkswagen,2022,Hauke,Stars,"5,482",1.1,0
+Volkswagen,2022,Hiltrud,Werner,"2,922",11.8,0
+Volkswagen,2022,Hildegard,Wortmann,"5,005",1.7,0
+Vonovia,2022,Arnd,Fittkau,"2,226",1.0,0
+Vonovia,2022,Philip,Grosse,"2,709",1.0,0
+Vonovia,2022,Daniel,Riedl,"3,019",1.0,0
+Vonovia,2022,Helene,von Roeder,"2,849",1.0,0
+Zalando,2022,Astrid,Arndt,697,1.0,0
+Zalando,2022,Sandra,Dembeck,"2,665",1.2,0
+Zalando,2022,Jim,Freeman,820,1.0,0
+Zalando,2022,David,Schröder,519,1.0,0
+Adidas,2023,Harm,Ohlmeyer,"3,386",1.0,0
+Adidas,2023,Roland,Auschel,"1,069",4.1,0
+Adidas,2023,Brian,Grevy,"4,000",4.1,0
+Adidas,2023,Arthur,Hoeld,"3,167",1.3,0
+Adidas,2023,Amanda,Rajkumar,"1,120",1.9,0
+Adidas,2023,Martin,Shankland,"3,131",1.0,0
+Allianz,2023,Giulio,Terzariol,"3,962",1.0,0
+Allianz,2023,Sirma,Boshnakova,"3,908",1.0,0
+Allianz,2023,Barbara,Karuth-Zelle,"3,906",1.0,0
+Allianz,2023,Klaus-Peter,Röhler,"3,933",1.0,0
+Allianz,2023,Günther,Thallinger,"3,883",1.0,0
+Allianz,2023,Christopher,Townsend,"3,897",1.0,0
+Allianz,2023,Renate,Wagner,"3,909",1.0,0
+Allianz,2023,Andreas,Wimmer,"3,887",1.0,0
+BASF,2023,Hans-Ulrich,Engel,"3,500",3.1,0
+BASF,2023,Saori,Dubourg,"2,656",6.2,0
+BASF,2023,Dirk,Elvermann,"2,738",1.5,0
+BASF,2023,Michael,Heinz,"3,072",1.0,0
+BASF,2023,Markus,Kamieth,"3,337",1.0,0
+BASF,2023,Stephan,Kothrade,"2,685",1.2,0
+BASF,2023,Melanie,Maas–Brunner,"2,616",1.0,0
+Bayer,2023,Wolfgang,Nickl,"2,573",1.0,0
+Bayer,2023,Sarena,Lin,"4,258",1.5,0
+Bayer,2023,Stefan,Oelrich,"2,575",1.0,0
+Bayer,2023,Heike,Prinz,"2,642",3.0,0
+Bayer,2023,Rodrigo,Santos,"2,816",1.0,0
+Bayer,2023,Heiko,Schipper,"2,732",1.0,0
+Beiersdorf,2023,Astrid ,Hermann,"2,041",1.0,0
+Beiersdorf,2023,Oswald ,Barckhahn,"2,635",1.0,0
+Beiersdorf,2023,Nicola ,Lafrentz,"1,400",1.0,0
+Beiersdorf,2023,Grita ,Loebsack,"2,867",1.0,0
+Beiersdorf,2023,Ramon,Mirt ,"2,542",1.0,0
+Beiersdorf,2023,Patrick ,Rasquinet,"1,726",1.0,0
+BMW,2023,Nicolas,Peter,"4,439",2.8,0
+BMW,2023,Walter,Mertl,"3,816",1.6,0
+BMW,2023,Jochen,Goller,"3,691",6.0,0
+BMW,2023,Ilka,Horstmeier,"4,413",1.0,0
+BMW,2023,Milan,Nedeljković,"4,374",1.0,0
+BMW,2023,Pieter,Nota,"4,399",1.2,0
+BMW,2023,Joachim,Post,"3,704",1.0,0
+BMW,2023,Frank,Weber,"4,043",1.0,0
+Brenntag,2023,Kristin,Neumann,"1,299",1.0,0
+Brenntag,2023,Michael,Friede,"1,500",1.3,0
+Brenntag,2023,Ewout,van Jarwaarde,"1,283",1.0,0
+Brenntag,2023,Henri,Nejade,"1,968",2.0,0
+Brenntag,2023,Steven,Terwindt,"1,722",1.7,0
+Commerzbank,2023,Bettina,Orlopp,"2,467",1.0,0
+Commerzbank,2023,Marcus,Chromik,"1,817",1.0,0
+Commerzbank,2023,Michael,Kotzbauer,"1,943",1.0,0
+Commerzbank,2023,Sabine,Mlnarsky,"1,780",1.0,0
+Commerzbank,2023,Jörg,Oliveri del Castillo-Schulz,"1,748",1.0,0
+Commerzbank,2023,Thomas,Schaufler,"1,767",1.0,0
+Continental,2023,Katja,Garcia Villa,"2,608",1.0,0
+Continental,2023,Philipp,von Hirschheydt,"2,556",1.5,0
+Continental,2023,Christian,Kötz,"2,825",1.0,0
+Continental,2023,Philip,Nelles,"2,629",1.0,0
+Continental,2023,Ariane,Reinhart,"2,602",1.0,0
+Continental,2023,Olaf,Schick,"2,778",1.5,0
+Covestro,2023,Christian,Baier,"2,375",4.0,0
+Covestro,2023,Thorsten,Dreier,"1,922",2.0,0
+Covestro,2023,Sucheta,Govil,"1,857",1.0,0
+Covestro,2023,Klaus,Schäfer,"1,861",2.0,0
+Covestro,2023,Thomas,Toepfer,"2,244",1.5,0
+Daimler Truck,2023,Jochen,Goetz,"3,228",1.7,0
+Daimler Truck,2023,Karl,Deppen,"3,143",1.0,0
+Daimler Truck,2023,Andreas,Gorbach,"2,980",1.0,0
+Daimler Truck,2023,Jürgen,Hartwig,"2,896",1.0,0
+Daimler Truck,2023,John,O'Leary,"3,834",1.0,0
+Daimler Truck,2023,Karin,Rådström,"3,071",1.0,0
+Daimler Truck,2023,Stephan,Unger,"2,831",1.0,0
+Deutsche Bank,2023,James,von Moltke,"7,677",1.0,0
+Deutsche Bank,2023,Fabrizio,Campelli,"8,030",1.0,0
+Deutsche Bank,2023,Claudio,de Sanctis,"7,382",2.0,0
+Deutsche Bank,2023,Bernd,Leukert,"6,015",1.0,0
+Deutsche Bank,2023,Alexander,von zur Mühlen,"6,338",1.0,0
+Deutsche Bank,2023,Christiana,Riley,"3,232",2.7,0
+Deutsche Bank,2023,Karl,von Rohr,"6,411",1.2,0
+Deutsche Bank,2023,Rebecca,Short,"6,148",1.0,0
+Deutsche Bank,2023,Stefan,Simon,"6,165",1.0,0
+Deutsche Bank,2023,Olivier,Vigneron,"5,988",1.0,0
+Deutsche Börse,2023,Gregor,Pottmeyer,"3,439",1.0,0
+Deutsche Börse,2023,Christoph,Böhm,"3,408",1.0,0
+Deutsche Börse,2023,Thomas,Book,"3,151",1.0,0
+Deutsche Börse,2023,Heike,Eckert,"3,129",1.0,0
+Deutsche Börse,2023,Stephan,Leithner,"3,523",1.0,0
+Deutsche Post,2023,Frank,Appel,"3,758",2.9,1
+Deutsche Post,2023,Melanie,Kreis,"2,650",1.0,0
+Deutsche Post,2023,Oscar,de Bok,"2,615",1.0,0
+Deutsche Post,2023,Pablo,Ciano,"2,419",1.0,0
+Deutsche Post,2023,Nikola,Hagleitner,"2,375",1.0,0
+Deutsche Post,2023,Thomas,Ogilvie,"2,665",1.0,0
+Deutsche Post,2023,John,Pearson,"2,648",1.0,0
+Deutsche Post,2023,Tim,Scharwath,"2,700",1.0,0
+Deutsche Telekom,2023,Christian P.,Illek,"3,597",1.0,0
+Deutsche Telekom,2023,Adel,Al-Saleh,"3,343",1.0,0
+Deutsche Telekom,2023,Birgit,Bohle,"3,442",1.0,0
+Deutsche Telekom,2023,Srinivasan,Gopalan,"3,493",1.0,0
+Deutsche Telekom,2023,Thorsten,Langheim,"3,599",1.0,0
+Deutsche Telekom,2023,Dominique,Leroy,"3,283",1.0,0
+Deutsche Telekom,2023,Claudia,Nemat,"3,625",1.0,0
+E.ON,2023,Marc,Spieker,"3,757",1.0,0
+E.ON,2023,Thomas,König,"3,773",1.0,0
+E.ON,2023,Patrick,Lammers,"3,807",1.0,0
+E.ON,2023,Victoria,Ossadnik,"3,824",1.0,0
+Fresenius,2023,Sara,Hennicken,664,1.0,0
+Fresenius,2023,Pierluigi,Antonelli,969,1.2,0
+Fresenius,2023,Sebastian,Biedenkopf,884,1.1,0
+Fresenius,2023,Francesco,De Meo,"1,085",1.5,0
+Fresenius,2023,Helen,Giza,"5,953",1.1,0
+Fresenius,2023,Robert,Möller,"1,117",3.2,0
+Fresenius,2023,Michael,Moser,928,2.0,0
+Fresenius,2023,Ernst,Wastler,912,1.5,0
+Hannover Rück,2023,Clemens,Jungsthöfel,"1,841",1.0,0
+Hannover Rück,2023,Sven,Althoff,"1,962",1.0,0
+Hannover Rück,2023,Claude,Chèvre,"1,962",1.0,0
+Hannover Rück,2023,Klaus,Miller,"1,947",1.0,0
+Hannover Rück,2023,Sharon,Ooi,"1,803",1.0,0
+Hannover Rück,2023,Michael,Pickel,"1,962",1.0,0
+Hannover Rück,2023,Silke,Sehm,"1,768",1.0,0
+Heidelberg Materials,2023,René,Aldach,"2,248",1.0,0
+Heidelberg Materials,2023,Kevin,Gluskie,"3,870",1.0,0
+Heidelberg Materials,2023,Hakan,Gurdal,"2,928",1.0,0
+Heidelberg Materials,2023,Ernest,Jelito,"2,730",1.0,0
+Heidelberg Materials,2023,Nicola,Kimm,"2,266",1.0,0
+Heidelberg Materials,2023,Dennis,Lentz,"2,618",1.0,0
+Heidelberg Materials,2023,Jon,Morrish,"3,430",1.0,0
+Heidelberg Materials,2023,Chris,Ward,"3,141",1.0,0
+Henkel,2023,Marco,Swoboda,"4,215",1.0,0
+Henkel,2023,Mark,Dorn,"4,208",1.1,0
+Henkel,2023,Wolfgang,König,"4,647",1.0,0
+Henkel,2023,Sylvie,Nicol,"4,637",1.0,0
+Infineon,2023,Sven,Schneider,"2,819",1.0,0
+Infineon,2023,Constanze,Hufenbecher,"2,221",1.0,0
+Infineon,2023,Andreas,Urschitz,"2,196",1.0,0
+Infineon,2023,Rutger,Wijburg,"2,193",1.0,0
+Mercedes-Benz,2023,Harald,Wilhelm,"4,133",1.0,0
+Mercedes-Benz,2023,Jörg,Burzer,"4,419",1.0,0
+Mercedes-Benz,2023,Renata,Jungo Brüngger,"4,095",1.0,0
+Mercedes-Benz,2023,Sabine,Kohleisen,"4,603",1.0,0
+Mercedes-Benz,2023,Markus,Schäfer,"4,190",1.0,0
+Mercedes-Benz,2023,Britta,Seeger,"4,123",1.0,0
+Mercedes-Benz,2023,Hubertus,Troska,"4,700",1.0,0
+Merck,2023,Marcus,Kuhnert,"5,822",2.0,0
+Merck,2023,Helene,von Roeder,"5,705",2.0,0
+Merck,2023,Kai,Beckmann,"6,270",1.0,0
+Merck,2023,Peter,Guenter,"6,829",1.0,0
+Merck,2023,Matthias,Heinzel,"6,828",1.0,0
+MTU,2023,Peter,Kameritsch,"1,580",1.0,0
+MTU,2023,Silke,Maurer,"1,791",1.1,0
+MTU,2023,Michael,Schreyögg,"1,597",1.0,0
+Munich RE,2023,Christoph,Jurecka,"3,826",1.0,0
+Munich RE,2023,Thomas,Blunck,"3,830",1.0,0
+Munich RE,2023,Nicholas,Gartside,"3,324",1.0,0
+Munich RE,2023,Stefan,Golling,"3,331",1.0,0
+Munich RE,2023,Achim,Kassow,"3,346",1.0,0
+Munich RE,2023,Michael,Kerner,"3,586",1.0,0
+Munich RE,2023,Clarisse,Kopff,"3,335",1.0,0
+Munich RE,2023,Mari-Lizette,Malherbe,"3,370",1.0,0
+Munich RE,2023,Markus,Rieß,"3,648",1.0,0
+Porsche AG,2023,Lutz,Meschke,"4,065",1.0,0
+Porsche AG,2023,Barbara,Frenkel,"3,397",1.0,0
+Porsche AG,2023,Andreas,Haffner,"3,425",1.0,0
+Porsche AG,2023,Sajjad,Khan,"3,385",6.0,0
+Porsche AG,2023,Detlev,von Platen,"3,406",1.0,0
+Porsche AG,2023,Albrecht,Reimold,"3,428",1.0,0
+Porsche AG,2023,Michael,Steiner,"3,415",1.0,0
+Porsche SE,2023,Johannes,Lattwein,"2,019",1.0,0
+Porsche SE,2023,Manfred,Döss,"1,452",1.0,0
+Porsche SE,2023,Lutz,Meschke,"1,192",1.0,0
+Qiagen,2023,Roland,Sackers,"3,754",1.0,0
+Rheinmetall,2023,Dagmar,Steinert,"2,290",1.0,0
+Rheinmetall,2023,Peter,Krause,"1,813",1.0,0
+RWE,2023,Michael,Müller,"3,356",1.0,0
+RWE,2023,Katja,van Doren,"3,070",2.4,0
+RWE,2023,Zvezdana,Seeger,"3,293",1.2,0
+SAP,2023,Dominik,Asam,"4,827",1.2,0
+SAP,2023,Luka,Mucic,"5,020",4.1,0
+SAP,2023,Sabine,Bendiek,"4,191",1.0,0
+SAP,2023,Jürgen,Müller,"4,186",1.0,0
+SAP,2023,Scott,Russell,"5,926",1.0,0
+SAP,2023,Thomas,Saueressig,"4,997",1.0,0
+SAP,2023,Julia,White,"4,508",1.0,0
+Sartorius,2023,Rainer,Lehmann,"1,173",1.2,0
+Sartorius,2023,René,Fáber,"1,138",1.0,0
+Sartorius,2023,Alexandra,Gatzemeyer,982,1.5,0
+Sartorius,2023,John Gerard,Mackay,"1,188",2.2,0
+Siemens,2023,Ralf P.,Thomas,"5,328",1.0,0
+Siemens,2023,Cedrik,Neike,"4,524",1.0,0
+Siemens,2023,Matthias,Rebellius,"5,103",1.0,0
+Siemens,2023,Judith,Wiese,"5,076",1.0,0
+Siemens Energy,2023,Maria,Ferraro,"2,992",1.0,0
+Siemens Energy,2023,Karim,Amin,"2,464",1.0,0
+Siemens Energy,2023,Anne-Laure,de Chammard,"2,341",1.0,0
+Siemens Energy,2023,Tim,Holt,"3,056",1.0,0
+Siemens Energy,2023,Vinod,Philipp,"2,309",1.0,0
+Siemens Healthineers,2023,Jochen,Schmitz,"2,737",1.0,0
+Siemens Healthineers,2023,Darleen,Caron,"2,683",1.0,0
+Siemens Healthineers,2023,Elisabeth,Staudinger-Leibrecht,"2,474",1.0,0
+Symrise,2023,Olaf,Klinger,"1,616",1.0,0
+Symrise,2023,Stephanie,Coßmann,"1,627",1.1,0
+Symrise,2023,Andreas,Jörn,"1,626",1.1,0
+Symrise,2023,Jean-Yves,Parisot,"1,945",1.0,0
+Volkswagen,2023,Arno,Antlitz,"6,178",1.0,0
+Volkswagen,2023,Ralf,Brandstätter,"6,715",1.0,0
+Volkswagen,2023,Gernot,Döllner,"6,255",3.0,0
+Volkswagen,2023,Manfred,Döss,"4,632",1.0,0
+Volkswagen,2023,Markus,Duesmann,"6,178",1.5,0
+Volkswagen,2023,Gunnar,Kilian,"6,178",1.0,0
+Volkswagen,2023,Thomas,Schäfer,"6,179",1.0,0
+Volkswagen,2023,Thomas,Schmall-von Westerholt,"6,179",1.0,0
+Volkswagen,2023,Hauke,Stars,"6,176",1.0,0
+Vonovia,2023,Philip,Grosse,"2,563",1.0,0
+Vonovia,2023,Arnd,Fittkau,"2,087",1.0,0
+Vonovia,2023,Daniel,Riedl,"2,689",1.0,0
+Vonovia,2023,Helene,von Roeder,"1,064",2.0,0
+Vonovia,2023,Ruth,Werhahn,"2,543",4.0,0
+Zalando,2023,Sandra,Dembeck,"2,309",1.0,0
+Zalando,2023,Astrid,Arndt,"1,559",1.0,0
+Zalando,2023,Jim,Freeman,838,4.1,0
+Zalando,2023,David,Schröder,"3,105",1.0,0
+Adidas,2024,Harm,Ohlmeyer,"4,308",1.0,0
+Adidas,2024,Arthur,Hoeld,"3,655",1.2,0
+Adidas,2024,Michelle ,Robertson,"3,599",1.0,0
+Adidas,2024,Martin,Shankland,"3,814",1.6,0
+Adidas,2024,Mathieu,Sidokpohou,"3,441",6.0,0
+Allianz,2024,Claire-Marie,Coste-Lepoutre,"4,267",1.0,0
+Allianz,2024,Sirma,Boshnakova,"4,301",1.0,0
+Allianz,2024,Barbara,Karuth-Zelle,"4,263",1.0,0
+Allianz,2024,Klaus-Peter,Röhler,"4,271",1.0,0
+Allianz,2024,Günther,Thallinger,"4,262",1.0,0
+Allianz,2024,Christopher,Townsend,"4,297",1.0,0
+Allianz,2024,Renate,Wagner,"4,295",1.0,0
+Allianz,2024,Andreas,Wimmer,"4,263",1.0,0
+BASF,2024,Dirk,Elvermann,"3,583",1.0,0
+BASF,2024,Michael,Heinz,"3,847",1.0,0
+BASF,2024,Anup,Kothari,"3,834",1.2,0
+BASF,2024,Stephan,Kothrade,"3,800",1.0,0
+BASF,2024,Melanie,Maas–Brunner,"3,430",11.8,0
+BASF,2024,Katja,Scharpwinkel,"3,442",1.1,0
+Bayer,2024,Wolfgang,Nickl,"3,327",1.0,0
+Bayer,2024,Stefan,Oelrich,"3,366",1.0,0
+Bayer,2024,Heike,Prinz,"3,604",1.0,0
+Bayer,2024,Rodrigo,Santos,"3,520",1.0,0
+Bayer,2024,Heiko,Schipper,"1,576",3.0,0
+Bayer,2024,Julio,Triana,"3,900",1.3,0
+Beiersdorf,2024,Astrid ,Hermann,"2,019",1.0,0
+Beiersdorf,2024,Oswald ,Barckhahn,"2,630",1.0,0
+Beiersdorf,2024,Nicola ,Lafrentz,"1,400",1.0,0
+Beiersdorf,2024,Grita ,Loebsack,"2,729",1.0,0
+Beiersdorf,2024,Ramon,Mirt ,"2,799",1.0,0
+Beiersdorf,2024,Patrick ,Rasquinet,"1,854",1.0,0
+BMW,2024,Walter,Mertl,"2,187",1.0,0
+BMW,2024,Jochen,Goller,"2,182",1.0,0
+BMW,2024,Ilka,Horstmeier,"2,624",1.0,0
+BMW,2024,Milan,Nedeljković,"2,590",1.0,0
+BMW,2024,Joachim,Post,"2,189",1.0,0
+BMW,2024,Frank,Weber,"2,589",1.0,0
+Brenntag,2024,Kristin,Neumann,"1,422",1.0,0
+Brenntag,2024,Michael,Friede,"1,642",1.0,0
+Brenntag,2024,Ewout,van Jarwaarde,"1,429",1.0,0
+Commerzbank,2024,Michael,Kotzbauer,"2,045",1.0,0
+Commerzbank,2024,Sabine,Mlnarsky,"1,779",1.0,0
+Commerzbank,2024,Jörg,Oliveri del Castillo-Schulz,"1,785",2.0,0
+Commerzbank,2024,Thomas,Schaufler,"1,798",1.0,0
+Commerzbank,2024,Bernd ,Spalt,"1,802",1.0,0
+Commerzbank,2024,Christiane ,Vorspel,"1,842",3.0,0
+Continental,2024,Katja,Garcia Villa,"2,361",2.0,0
+Continental,2024,Philipp,von Hirschheydt,"2,139",1.0,0
+Continental,2024,Christian,Kötz,"2,473",1.0,0
+Continental,2024,Philip,Nelles,"2,198",1.0,0
+Continental,2024,Ariane,Reinhart,"2,348",1.0,0
+Continental,2024,Olaf,Schick,"2,495",1.0,0
+Daimler Truck,2024,Eva,Scherer,"3,006",1.3,0
+Daimler Truck,2024,Karl,Deppen,"2,469",1.0,0
+Daimler Truck,2024,Andreas,Gorbach,"2,609",1.0,0
+Daimler Truck,2024,Jürgen,Hartwig,"2,492",1.0,0
+Daimler Truck,2024,John,O'Leary,"3,293",1.0,0
+Daimler Truck,2024,Achim,Puchert,"2,017",11.8,0
+Daimler Truck,2024,Stephan,Unger,"3,176",2.0,0
+Deutsche Bank,2024,James,von Moltke,"8,372",1.0,0
+Deutsche Bank,2024,Fabrizio,Campelli,"8,994",1.0,0
+Deutsche Bank,2024,Claudio,de Sanctis,"8,397",1.0,0
+Deutsche Bank,2024,Bernd,Leukert,"6,349",1.0,0
+Deutsche Bank,2024,Alexander,von zur Mühlen,"6,929",1.0,0
+Deutsche Bank,2024,Laura,Padovani,"2,966",2.0,0
+Deutsche Bank,2024,Rebecca,Short,"6,523",1.0,0
+Deutsche Bank,2024,Stefan,Simon,"6,405",1.0,0
+Deutsche Bank,2024,Olivier,Vigneron,"6,151",1.0,0
+Deutsche Börse,2024,Gregor,Pottmeyer,"3,397",1.0,0
+Deutsche Börse,2024,Christoph,Böhm,"3,385",1.0,0
+Deutsche Börse,2024,Thomas,Book,"3,129",1.0,0
+Deutsche Börse,2024,Stephanie,Eckermann,"3,121",1.7,0
+Deutsche Börse,2024,Heike,Eckert,"3,115",1.0,0
+Deutsche Post,2024,Melanie,Kreis,"2,847",1.0,0
+Deutsche Post,2024,Oscar,de Bok,"2,663",1.0,0
+Deutsche Post,2024,Pablo,Ciano,"2,602",1.0,0
+Deutsche Post,2024,Nikola,Hagleitner,"2,508",1.0,0
+Deutsche Post,2024,Thomas,Ogilvie,"2,757",1.0,0
+Deutsche Post,2024,John,Pearson,"2,678",1.0,0
+Deutsche Post,2024,Tim,Scharwath,"2,692",1.0,0
+Deutsche Telekom,2024,Christian P.,Illek,"3,692",1.0,0
+Deutsche Telekom,2024,Ferri,Abolhassan,"2,713",1.0,0
+Deutsche Telekom,2024,Birgit,Bohle,"3,501",1.0,0
+Deutsche Telekom,2024,Srinivasan,Gopalan,"3,462",1.0,0
+Deutsche Telekom,2024,Thorsten,Langheim,"3,679",1.0,0
+Deutsche Telekom,2024,Dominique,Leroy,"3,550",1.0,0
+Deutsche Telekom,2024,Claudia,Nemat,"3,672",1.0,0
+E.ON,2024,Nadia,Jakobi,"3,284",1.7,0
+E.ON,2024,Thomas,König,"3,314",1.0,0
+E.ON,2024,Patrick,Lammers,"3,325",2.4,0
+E.ON,2024,Victoria,Ossadnik,"3,282",1.0,0
+E.ON,2024,Marc,Spieker,"3,295",1.0,0
+Fresenius,2024,Sara,Hennicken,"2,810",1.0,0
+Fresenius,2024,Pierluigi,Antonelli,"3,329",1.0,0
+Fresenius,2024,Robert,Möller,"3,041",1.0,0
+Fresenius,2024,Michael,Moser,"2,805",1.0,0
+Fresenius Medical Care,2024,Martin,Fischer,"3,304",1.0,0
+Fresenius Medical Care,2024,Craig,Cordola,"5,111",1.0,0
+Fresenius Medical Care,2024,Jörg,Häring,"2,786",1.7,0
+Fresenius Medical Care,2024,Franklin W. ,Maddux,"3,574",1.0,0
+Fresenius Medical Care,2024,Katarzyna,Mazur-Hofsäß,"3,986",1.0,0
+Hannover Rück,2024,Clemens,Jungsthöfel,"2,244",1.0,0
+Hannover Rück,2024,Sven,Althoff,"2,209",1.0,0
+Hannover Rück,2024,Claude,Chèvre,"2,196",1.0,0
+Hannover Rück,2024,Klaus,Miller,"2,194",1.0,0
+Hannover Rück,2024,Sharon,Ooi,"2,032",1.0,0
+Hannover Rück,2024,Michael,Pickel,"2,211",1.0,0
+Hannover Rück,2024,Silke,Sehm,"2,204",1.0,0
+Hannover Rück,2024,Thorsten,Steinmann,"2,204",3.0,0
+Heidelberg Materials,2024,René,Aldach,"2,493",1.0,0
+Heidelberg Materials,2024,Katharina,Beumelburg,"3,079",4.0,0
+Heidelberg Materials,2024,Roberto,Callieri,"3,426",1.0,0
+Heidelberg Materials,2024,Axel,Conrads,"2,163",1.1,0
+Heidelberg Materials,2024,Kevin,Gluskie,"3,318",11.8,0
+Heidelberg Materials,2024,Hakan,Gurdal,"3,089",1.0,0
+Heidelberg Materials,2024,Nicola,Kimm,"2,172",1.5,0
+Heidelberg Materials,2024,Dennis,Lentz,"2,809",1.0,0
+Heidelberg Materials,2024,Jon,Morrish,"3,609",1.0,0
+Heidelberg Materials,2024,Chris,Ward,"3,482",1.0,0
+Henkel,2024,Marco,Swoboda,"4,286",1.0,0
+Henkel,2024,Mark,Dorn,"4,316",1.0,0
+Henkel,2024,Wolfgang,König,"4,733",1.0,0
+Henkel,2024,Sylvie,Nicol,"4,655",1.0,0
+Infineon,2024,Sven,Schneider,"2,520",1.0,0
+Infineon,2024,Constanze,Hufenbecher,"1,903",11.8,0
+Infineon,2024,Elke ,Reichart,"1,971",1.1,0
+Infineon,2024,Andreas,Urschitz,"1,942",1.0,0
+Infineon,2024,Rutger,Wijburg,"1,943",1.0,0
+Mercedes-Benz,2024,Harald,Wilhelm,"3,706",1.0,0
+Mercedes-Benz,2024,Jörg,Burzer,"4,220",1.0,0
+Mercedes-Benz,2024,Renata,Jungo Brüngger,"3,679",1.0,0
+Mercedes-Benz,2024,Sabine,Kohleisen,"3,913",1.0,0
+Mercedes-Benz,2024,Markus,Schäfer,"3,719",1.0,0
+Mercedes-Benz,2024,Britta,Seeger,"3,720",1.0,0
+Mercedes-Benz,2024,Hubertus,Troska,"4,141",1.0,0
+Merck,2024,Helene,von Roeder,"5,701",1.0,0
+Merck,2024,Kai,Beckmann,"6,217",1.0,0
+Merck,2024,Peter,Guenter,"6,792",1.0,0
+Merck,2024,Matthias,Heinzel,"6,766",1.0,0
+MTU,2024,Peter,Kameritsch,"2,802",1.0,0
+MTU,2024,Silke,Maurer,"3,003",1.0,0
+MTU,2024,Michael,Schreyögg,"2,822",1.0,0
+Munich RE,2024,Christoph,Jurecka,"4,141",1.0,0
+Munich RE,2024,Thomas,Blunck,"4,143",1.0,0
+Munich RE,2024,Nicholas,Gartside,"3,599",1.0,0
+Munich RE,2024,Stefan,Golling,"3,608",1.0,0
+Munich RE,2024,Achim,Kassow,"3,619",1.0,0
+Munich RE,2024,Michael,Kerner,"4,035",1.0,0
+Munich RE,2024,Clarisse,Kopff,"3,613",1.0,0
+Munich RE,2024,Mari-Lizette,Malherbe,"3,614",1.0,0
+Munich RE,2024,Markus,Rieß,"4,063",1.0,0
+Porsche AG,2024,Lutz,Meschke,"4,122",1.0,0
+Porsche AG,2024,Barbara,Frenkel,"3,540",1.0,0
+Porsche AG,2024,Andreas,Haffner,"3,559",1.0,0
+Porsche AG,2024,Sajjad,Khan,"3,545",1.0,0
+Porsche AG,2024,Detlev,von Platen,"3,638",1.0,0
+Porsche AG,2024,Albrecht,Reimold,"3,607",1.0,0
+Porsche AG,2024,Michael,Steiner,"3,584",1.0,0
+Porsche SE,2024,Johannes,Lattwein,"1,970",1.0,0
+Porsche SE,2024,Manfred,Döss,"1,569",1.0,0
+Porsche SE,2024,Lutz,Meschke,"1,305",1.0,0
+Qiagen,2024,Roland,Sackers,"3,962",1.0,0
+Rheinmetall,2024,Dagmar,Steinert,"2,509",1.0,0
+Rheinmetall,2024,Ursula,Biernert-Kloß,"2,650",4.0,0
+Rheinmetall,2024,Peter,Krause,"2,653",1.3,0
+RWE,2024,Michael,Müller,"3,063",1.0,0
+RWE,2024,Katja,van Doren,"2,614",1.0,0
+SAP,2024,Dominik,Asam,"6,213",1.0,0
+SAP,2024,Muhammad,Alam,"4,796",1.3,0
+SAP,2024,Jürgen,Müller,"5,084",1.3,0
+SAP,2024,Scott,Russell,"8,792",1.5,0
+SAP,2024,Thomas,Saueressig,"5,046",1.0,0
+SAP,2024,Gina,Vargíu-Breuer,"4,224",1.1,0
+SAP,2024,Julia,White,"6,059",1.5,0
+Sartorius,2024,Florian,Funck,"1,584",1.3,0
+Sartorius,2024,René,Fáber,"1,422",1.0,0
+Sartorius,2024,Alexandra,Gatzemeyer,"1,190",1.0,0
+Siemens,2024,Ralf P.,Thomas,"4,968",1.0,0
+Siemens,2024,Cedrik,Neike,"4,166",1.0,0
+Siemens,2024,Matthias,Rebellius,"4,948",1.0,0
+Siemens,2024,Judith,Wiese,"4,668",1.0,0
+Siemens Energy,2024,Maria,Ferraro,"1,154",1.0,0
+Siemens Energy,2024,Karim,Amin,"1,082",1.0,0
+Siemens Energy,2024,Anne-Laure,de Chammard,"1,000",1.0,0
+Siemens Energy,2024,Tim,Holt,"1,160",1.0,0
+Siemens Energy,2024,Vinod,Philipp,943,1.0,0
+Siemens Healthineers,2024,Jochen,Schmitz,"2,960",1.0,0
+Siemens Healthineers,2024,Darleen,Caron,"3,052",1.0,0
+Siemens Healthineers,2024,Elisabeth,Staudinger-Leibrecht,"2,543",1.0,0
+Symrise,2024,Olaf,Klinger,"2,010",1.0,0
+Symrise,2024,Stephanie,Coßmann,"2,006",1.0,0
+Symrise,2024,Andreas,Jörn,"2,267",1.3,0
+Symrise,2024,Walter ,Ribeiro,571,3.4,0
+Volkswagen,2024,Arno,Antlitz,"5,828",1.0,0
+Volkswagen,2024,Ralf,Brandstätter,"6,236",1.0,0
+Volkswagen,2024,Gernot,Döllner,"5,825",1.0,0
+Volkswagen,2024,Manfred,Döss,"4,366",1.0,0
+Volkswagen,2024,Gunnar,Kilian,"5,825",1.0,0
+Volkswagen,2024,Thomas,Schäfer,"5,826",1.0,0
+Volkswagen,2024,Thomas,Schmall-von Westerholt,"5,827",1.0,0
+Volkswagen,2024,Hauke,Stars,"5,826",1.0,0
+Vonovia,2024,Philip,Grosse,"2,775",1.0,0
+Vonovia,2024,Arnd,Fittkau,"2,291",1.0,0
+Vonovia,2024,Daniel,Riedl,"2,752",1.0,0
+Vonovia,2024,Ruth,Werhahn,"2,783",1.0,0
+Zalando,2024,Sandra,Dembeck,"2,301",1.0,0
+Zalando,2024,Astrid,Arndt,"2,518",1.0,0
+Zalando,2024,David,Schneider,"3,758",1.0,0
